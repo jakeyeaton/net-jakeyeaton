@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+
+<url>
+  <loc>https://www.jakeyeton.net</loc>
+  <lastmod>2017-03-04</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>10</priority>
+</url>
+
+<url>
+  <loc>https://www.jakeyeton.net/inbound-marketing-strategy.html</loc>
+  <lastmod>2017-03-04</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>10</priority>
+</url>
+
+<url>
+  <loc>https://www.jakeyeton.net/social-media-marketing.html</loc>
+  <lastmod>2017-03-04</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>10</priority>
+</url>
+
+<url>
+  <loc>https://www.jakeyeton.net/blog/list.html</loc>
+  <lastmod>2017-03-04</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>10</priority>
+</url>
+
+<!--
+<url>
+  <loc>https://www.jakeyeton.net/blog/blog-post.html</loc>
+  <lastmod>2017-03-04</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>10</priority>
+</url>
+-->
+
+</urlset>
